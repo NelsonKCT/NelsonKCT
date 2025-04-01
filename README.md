@@ -1,4 +1,4 @@
-<img src="https://github.com/NelsonKCT/NelsonKCT/blob/main/software-developer.png" alt="Welcome to my world">
+<img src="https://github.com/NelsonKCT/NelsonKCT/blob/main/Aespa My World Wallpaper Logo.png" alt="Welcome to my world">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Nelson!;" />
@@ -8,7 +8,7 @@
 
 - 🎯 Seeking internship opportunities in software engineering
 - 🧠 Currently exploring **Full-stack Development**, and **Game Design**
-- 📄 [Resume](https://github.com/NelsonKCT/NelsonKCT/blob/main/resume.pdf)
+- 📄 [Resume](https://github.com/NelsonKCT/NelsonKCT/blob/main/Resume.pdf)
 
 
 <br>
