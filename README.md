@@ -8,7 +8,7 @@
 
 - 🎯 Seeking internship opportunities in software engineering
 - 🧠 Currently exploring **Full-stack Development**, and **Game Design**
-- 📄 [Resume](https://github.com/NelsonKCT/NelsonKCT/blob/main/Resume.pdf)
+- 📄 [Check out my resume](https://github.com/NelsonKCT/NelsonKCT/blob/main/Resume.pdf)
 
 
 <br>
