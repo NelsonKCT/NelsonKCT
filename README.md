@@ -1,33 +1,63 @@
-# 👋 Hi there, I'm Kuo Chien Ting
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/NelsonKCT/count.svg" alt="Visitor's Count" />
+</div>
 
-I'm a senior CS student at National Central University (NCU), Taiwan. I'm passionate about building meaningful software and exploring technologies that solve real-world problems. I'm currently seeking internship opportunities to grow as a developer and contribute to impactful projects.
+<img src="https://github.com/NelsonKCT/NelsonKCT/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 
-## 📫 Contact Me
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Kuo+Chien+Ting!;" />
+</h1>
 
-[![Email](https://img.shields.io/badge/Email-nelsonkuo0430@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nelsonkuo0430@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/NelsonKCT/yourrepo/blob/main/resume.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-@NelsonKCT-181717?style=flat-square&logo=github)](https://github.com/NelsonKCT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chien-ting-kuo-4a348b316/) <!-- Replace this with your actual LinkedIn link -->
+### A senior CS student at NCU (Taiwan) passionate about building reliable, privacy-focused, and impactful software systems.
 
-## 🛠️ Tech Stack
+- 🎯 Seeking internship opportunities in software engineering and blockchain/privacy-related fields
+- 🧠 Currently exploring **Zero-Knowledge Proofs**, **Full-stack Development**, and **Game Design**
+- 📄 [Resume](https://github.com/NelsonKCT/NelsonKCT/blob/main/resume.pdf)
+- 💬 Feel free to reach out via email!
 
-- Languages: C++, Python, JavaScript/TypeScript, Rust
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, MongoDB, Firebase
-- Tools: Git, Docker, Figma, Vercel, GitHub Actions
+<br>
 
-## 🚀 Featured Projects
+<div align="center">
+  <a href="mailto:nelsonkuo0430@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nelsonkuo0430@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/NelsonKCT">
+    <img src="https://img.shields.io/badge/GitHub-NelsonKCT-181717?style=for-the-badge&logo=github" />
+  </a>
+</div>
 
-### 📱 [NCU App – Events Module](https://github.com/yourusername/ncu-app)
-Modern and intuitive mobile app module for managing university events, built with React Native and TailwindCSS.
+<hr>
 
-## 📊 GitHub Stats
+## 🛠️ Languages and Tools
 
-![Kuo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+<br>
 
-<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=[NelsonKCT]&theme=vue-dark&line_height=22&layout=compact&hide=less" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,nodejs,react,nextjs,rust,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,docker,git,vscode,unity" />
+</p>
 
----
+<hr>
 
-Thanks for visiting! Feel free to explore my repositories and get in touch.
+## ⚡️ Stats
+
+<br>
+
+<div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=NelsonKCT&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="NelsonKCT's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonKCT&theme=transparent&count_private=true&border_radius=10&locale=en" alt="NelsonKCT's Streak" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=NelsonKCT&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="NelsonKCT's Top Languages" />
+</div>
+
+<hr>
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NelsonKCT/NelsonKCT/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NelsonKCT/NelsonKCT/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/NelsonKCT/NelsonKCT/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
