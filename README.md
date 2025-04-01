@@ -1,17 +1,19 @@
-<img src="https://github.com/NelsonKCT/NelsonKCT/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+<img src="https://github.com/NelsonKCT/NelsonKCT/blob/main/software-developer.png" alt="Welcome to my world">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Nelson!;" />
 </h1>
 
-### A senior CS student at NCU (Taiwan) passionate about building reliable, privacy-focused, and impactful software systems.
+### I'm a senior CS student at National Central University (NCU), Taiwan. I'm passionate about building meaningful software and exploring technologies that solve real-world problems.
 
-- 🎯 Seeking internship opportunities in software engineering and blockchain/privacy-related fields
-- 🧠 Currently exploring **Zero-Knowledge Proofs**, **Full-stack Development**, and **Game Design**
+- 🎯 Seeking internship opportunities in software engineering
+- 🧠 Currently exploring **Full-stack Development**, and **Game Design**
 - 📄 [Resume](https://github.com/NelsonKCT/NelsonKCT/blob/main/resume.pdf)
-- 💬 Feel free to reach out via email!
+
 
 <br>
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000943.df3050a5fa1840b0b17d0522f3b90a34.1930)](https://music-profile.rayriffy.com)
 
 <div align="center">
   <a href="mailto:nelsonkuo0430@gmail.com">
@@ -29,8 +31,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,nodejs,react,nextjs,rust,mongodb,firebase" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,docker,git,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,md,figma,supabase,docker,git,github,rider,vscode,unity" />
 </p>
 
 <hr>
