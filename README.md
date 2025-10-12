@@ -12,9 +12,6 @@
 
 
 <br>
-
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000943.df3050a5fa1840b0b17d0522f3b90a34.1930)](https://music-profile.rayriffy.com)
-
 <div align="center">
   <a href="mailto:nelsonkuo0430@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-nelsonkuo0430@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
