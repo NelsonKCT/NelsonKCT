@@ -4,9 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Nelson!;" />
 </h1>
 
-### I'm a junior CS student at National Central University (NCU), Taiwan. I'm passionate about building meaningful software and exploring technologies that solve real-world problems.
+### I'm a senior CS student at National Central University (NCU), Taiwan. I'm passionate about building meaningful software and exploring technologies that solve real-world problems.
 
-- 🎯 Seeking internship opportunities in software engineering
 - 🧠 Currently exploring **Full-stack Development**, and **Game Design**
 - 📄 [Check out my resume](https://github.com/NelsonKCT/NelsonKCT/blob/main/Resume.pdf)
 
