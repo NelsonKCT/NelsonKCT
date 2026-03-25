@@ -25,6 +25,9 @@ What I'm working on at Garmin:
   <a href="mailto:nelsonkuo0430@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-nelsonkuo0430@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/chien-ting-kuo-4a348b316/">
+    <img src="https://img.shields.io/badge/LinkedIn-Chien--Ting%20Kuo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/NelsonKCT">
     <img src="https://img.shields.io/badge/GitHub-NelsonKCT-181717?style=for-the-badge&logo=github" />
   </a>
