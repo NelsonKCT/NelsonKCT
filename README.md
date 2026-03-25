@@ -12,7 +12,7 @@ I'm a senior CS student at National Central University (NCU), Taiwan. I'm passio
 What I'm working on at Garmin:
 * Full-stack web apps (Vue.js + Java Spring Boot) — POS systems, warranty engines, RMA tools
 * ETL pipelines with Apache Airflow & Pentaho for hardware diagnostics reporting
-* Financial reporting with SSRS & complex SQL across Oracle//MySQL
+* Financial reporting with SSRS & complex SQL across Oracle/MySQL
 * CI/CD with Jenkins, containerized deployments via Rancher, secrets management with Vault
 * Payment gateway integrations (LinePay, 2C2P, NewEB Pay)
 * Multi-region systems supporting TW, JP, KR, TH, VN, PH, CN
