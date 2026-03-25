@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Nelson!;" />
 </h1>
 
-### I'm a senior CS student at National Central University (NCU), Taiwan. I'm passionate about building meaningful software and exploring technologies that solve real-world problems.
+I'm a senior CS student at National Central University (NCU), Taiwan. I'm passionate about building meaningful software and exploring technologies that solve real-world problems.
 
 - 🧠 Currently exploring **Full-Stack Development**
 - 🔧 Currently interning at **Garmin** (APAC IT B2B Team), building enterprise-grade internal systems serving operations across Asia-Pacific
