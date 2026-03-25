@@ -10,14 +10,13 @@
 - 🔧 Currently interning at **Garmin** (APAC IT B2B Team), building enterprise-grade internal systems serving operations across Asia-Pacific
 
 What I'm working on at Garmin:
-• Full-stack web apps (Vue.js + Java Spring Boot) — POS systems, warranty engines, RMA tools
-• ETL pipelines with Apache Airflow & Pentaho for hardware diagnostics reporting
-• Financial reporting with SSRS & complex SQL across Oracle/PostgreSQL/MSSQL
-• CI/CD with Jenkins, containerized deployments via Rancher, secrets management with Vault
-• Payment gateway integrations (LinePay, 2C2P, NewEB Pay)
-• Multi-region systems supporting TW, JP, KR, TH, VN, PH, CN
+* Full-stack web apps (Vue.js + Java Spring Boot) — POS systems, warranty engines, RMA tools
+* ETL pipelines with Apache Airflow & Pentaho for hardware diagnostics reporting
+* Financial reporting with SSRS & complex SQL across Oracle/PostgreSQL/MSSQL
+* CI/CD with Jenkins, containerized deployments via Rancher, secrets management with Vault
+* Payment gateway integrations (LinePay, 2C2P, NewEB Pay)
+* Multi-region systems supporting TW, JP, KR, TH, VN, PH, CN
 
-Tech: Java · Spring Boot · Vue.js · SQL · Python · Groovy · Jenkins · Airflow · Docker · Git
 - 📄 [Check out my resume](https://github.com/NelsonKCT/NelsonKCT/blob/main/Resume.pdf)
 
 
