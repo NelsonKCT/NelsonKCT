@@ -17,7 +17,7 @@ What I'm working on at Garmin:
 * Payment gateway integrations (LinePay, 2C2P, NewEB Pay)
 * Multi-region systems supporting TW, JP, KR, TH, VN, PH, CN
 
-- 📄 [Check out my resume](https://github.com/NelsonKCT/NelsonKCT/blob/main/Resume.pdf)
+- 📄 [Check out my resume](https://github.com/NelsonKCT/NelsonKCT/blob/main/cv.pdf)
 
 
 <br>
